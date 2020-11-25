@@ -19,7 +19,7 @@ public class Test {
         int a = 22;
         int b = 18;
         int c = 77;
-        int k=0;
+        int k=7;
     }
     
 }
